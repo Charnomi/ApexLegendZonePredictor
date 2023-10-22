@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/material": "^5.14.14",
+    "@mui/x-data-grid": "^6.16.3",
+    "cors": "^2.8.5"
+  }
+}
